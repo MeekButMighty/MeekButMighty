@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a second year student in the University of Virginia School of Data Science
 <!--
 **MeekButMighty/MeekButMighty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
